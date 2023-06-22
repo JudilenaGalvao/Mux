@@ -1,0 +1,14 @@
+|MUX
+I0 => Y.DATAB
+I1 => Y.DATAB
+I2 => Y.DATAB
+I3 => Y.DATAA
+S1 => Equal0.IN0
+S1 => Equal1.IN0
+S1 => Equal2.IN1
+S0 => Equal0.IN1
+S0 => Equal1.IN1
+S0 => Equal2.IN0
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+

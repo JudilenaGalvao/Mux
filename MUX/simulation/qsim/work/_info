@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Documents\MUX\simulation\qsim
+vMUX
+Z1 IEUT3o:l`QH4<hbh9Pd8b]1
+Z2 VUbmnf;9UZz4_ZkPShAGdC2
+Z3 dC:\Users\Aluno\Documents\MUX\simulation\qsim
+Z4 w1687370647
+Z5 8MUX.vo
+Z6 FMUX.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@m@u@x
+!i10b 1
+Z10 !s100 BN?z@4;8PCeYlM=?@cT=j0
+!s85 0
+Z11 !s108 1687370651.229000
+Z12 !s107 MUX.vo|
+Z13 !s90 -work|work|MUX.vo|
+!s101 -O0
+vMUX_vlg_check_tst
+!i10b 1
+!s100 7467WEDj3<[:3Sn668=1C3
+IMZXi4J91D=bB2QR8`RSJ63
+Vbk8[[W85azIa;lVm[l[b]3
+R3
+Z14 w1687370646
+Z15 8MUX.vt
+Z16 FMUX.vt
+L0 67
+R7
+r1
+!s85 0
+31
+Z17 !s108 1687370651.417000
+Z18 !s107 MUX.vt|
+Z19 !s90 -work|work|MUX.vt|
+!s101 -O0
+R8
+n@m@u@x_vlg_check_tst
+vMUX_vlg_sample_tst
+!i10b 1
+!s100 [N3@3b9jEc]M[I6;A7kRI1
+I;1e=YnhMRcOO2f3N`jaX_0
+V17W=E`TTI1aWMgjmX_3SS0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@m@u@x_vlg_sample_tst
+vMUX_vlg_vec_tst
+!i10b 1
+!s100 <KS=07kdKz^4fWHi5A=0F2
+ITX_;Xgi;:ChL[_@SIC8JI0
+V1_V4Ug?Wbh2VRD9DP_l0f3
+R3
+R14
+R15
+R16
+L0 162
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@m@u@x_vlg_vec_tst

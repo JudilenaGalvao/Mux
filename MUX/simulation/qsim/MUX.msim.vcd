@@ -1,0 +1,245 @@
+$comment
+	File created using the following command:
+		vcd file MUX.msim.vcd -direction
+$end
+$date
+	Wed Jun 21 15:04:12 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module MUX_vlg_vec_tst $end
+$var reg 1 ! I0 $end
+$var reg 1 " I1 $end
+$var reg 1 # I2 $end
+$var reg 1 $ I3 $end
+$var reg 1 % S0 $end
+$var reg 1 & S1 $end
+$var wire 1 ' Y $end
+$var wire 1 ( sampler $end
+$scope module i1 $end
+$var wire 1 ) gnd $end
+$var wire 1 * vcc $end
+$var wire 1 + unknown $end
+$var tri1 1 , devclrn $end
+$var tri1 1 - devpor $end
+$var tri1 1 . devoe $end
+$var wire 1 / I0~combout $end
+$var wire 1 0 I1~combout $end
+$var wire 1 1 S0~combout $end
+$var wire 1 2 I3~combout $end
+$var wire 1 3 I2~combout $end
+$var wire 1 4 S1~combout $end
+$var wire 1 5 Y~0_combout $end
+$var wire 1 6 Y~1_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+1#
+0$
+0%
+0&
+0'
+x(
+0)
+1*
+x+
+1,
+1-
+1.
+0/
+00
+01
+02
+13
+04
+05
+06
+$end
+#5000
+1%
+11
+0(
+#10000
+1"
+1$
+1&
+0%
+10
+12
+14
+01
+1(
+15
+16
+1'
+#15000
+1%
+11
+0(
+#20000
+0#
+0"
+0$
+0&
+0%
+03
+00
+02
+04
+01
+1(
+05
+06
+0'
+#25000
+1%
+11
+0(
+#30000
+1#
+1"
+1&
+0%
+13
+10
+14
+01
+1(
+15
+16
+1'
+#35000
+1%
+11
+0(
+06
+0'
+#40000
+0#
+0&
+0%
+03
+04
+01
+1(
+05
+16
+06
+1'
+0'
+#45000
+1%
+11
+0(
+16
+1'
+#50000
+1$
+1#
+1&
+0%
+12
+13
+14
+01
+1(
+06
+15
+16
+0'
+1'
+#55000
+1%
+11
+0(
+#60000
+1!
+0$
+0&
+0%
+1/
+02
+04
+01
+1(
+#65000
+1%
+11
+0(
+06
+05
+16
+0'
+1'
+#70000
+0!
+1$
+1&
+0%
+0/
+12
+14
+01
+1(
+15
+06
+16
+0'
+1'
+#75000
+1%
+11
+0(
+#80000
+0#
+1!
+0$
+0&
+0%
+03
+1/
+02
+04
+01
+1(
+#85000
+1%
+11
+0(
+06
+05
+16
+0'
+1'
+#90000
+0"
+1#
+0!
+1$
+1&
+0%
+00
+13
+0/
+12
+14
+01
+1(
+06
+15
+16
+0'
+1'
+#95000
+1%
+11
+0(
+#100000
